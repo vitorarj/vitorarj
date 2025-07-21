@@ -11,8 +11,8 @@
 
 - 🧠 Pós-graduado em Tecnologias de Software pela UFRN  
 - 📚 Residência em TI com foco em arquitetura de software, UI/UX, CI/CD  
-- 🌎 Fluente em Inglês e Espanhol  
-- 🧩 Já atuei com Vue, React, Angular, Django, Spring Boot, ASP.NET e mais
+- 🌎 Inglês e Espanhol  
+- 🧩 Já atuei com Vue, React, Angular, Nest, Django, Spring Boot, ASP.NET e mais
 
 ---
 
