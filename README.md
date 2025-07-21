@@ -30,14 +30,14 @@
 
 ## 📊 GitHub Stats
 
-![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoralmeida777&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoralmeida777&layout=compact&theme=radical)
+![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorarj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorarj&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoralmeida777)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorarj)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:vitorarj777arj@gmail.com)
 
 ---
